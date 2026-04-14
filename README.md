@@ -1,4 +1,4 @@
-# DualLens Analytics — Project README
+# Financial Analytics — Application README
 
 ## Project Overview
 
