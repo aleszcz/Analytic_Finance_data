@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**DualLens Analytics** is a Retrieval-Augmented Generation (RAG) powered investment analysis system that combines **quantitative financial data** (stock prices, market cap, P/E ratio) with **qualitative AI initiative insights** (extracted from company PDF reports) to score and rank companies for investment potential.
+**Financial Analytics** is a Retrieval-Augmented Generation (RAG) powered investment analysis system that combines **quantitative financial data** (stock prices, market cap, P/E ratio) with **qualitative AI initiative insights** (extracted from company PDF reports) to score and rank companies for investment potential.
 
 The system analyzes five major tech companies: **GOOGL, MSFT, IBM, NVDA, AMZN**.
 
